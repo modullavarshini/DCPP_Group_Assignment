@@ -1,16 +1,23 @@
-# DCPP_Group_Assignment
-Data Collection And Preprocessing Group Assignment
-Group: 9A
-Domain:Birds
+# Data Collection And Preprocessing Group Assignment
+* Domain: Birds
 
-List of Code Files:
--> Link_Extraction.ipynb
--> Data_Extraction.ipynb
--> Country_and_Habitat_Extraction.ipynb
--> Preprocessing_and_Cleaning.ipynb
 
-Output Dataset:
--> Bird_Dataset.xlsx
+### Team Members
+* Shephali Bhardwaj – 12110010
+* Varshini Modulla – 12110052
+* Niharika Miriyala - 12110013
+* Hem Kumar Reddy Maryada – 12110072
 
-Vizualization Files:
--> Birds_EDA.twbx
+
+### List of Code Files
+* Link_Extraction.ipynb
+* Data_Extraction.ipynb
+* Country_and_Habitat_Extraction.ipynb
+* Preprocessing_and_Cleaning.ipynb
+
+
+### Output Dataset
+* Bird_Dataset.xlsx
+
+### Vizualization Files
+* Birds_EDA.twbx
